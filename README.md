@@ -1,1 +1,1 @@
-# food-devlivery-monorepo
+# food-delivery-monorepo
